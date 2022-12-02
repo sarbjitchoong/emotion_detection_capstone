@@ -1,0 +1,10 @@
+#Libraries Required:
+
+matplotlib.pyplot
+tensorflow
+numpy
+PIL
+efficientnet.keras
+pandas
+os
+scikit-learn
